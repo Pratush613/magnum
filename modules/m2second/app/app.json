@@ -1,0 +1,13 @@
+{
+  "id": "7df0b9b8-2284-46d9-89a4-8c84dc8c57a2",
+  "name": "m2second",
+  "type": "module",
+  "slug": "7fbfc99b-9ff1-466a-9243-396ca7e9333d",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "apps",
+  "tooljetVersion": "3.21.55-beta-ee"
+}
