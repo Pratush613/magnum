@@ -4,6 +4,7 @@
   "name": "dust",
   "options": {
     "development": {
+      "account": "dust",
       "allow_dynamic_connection_parameters": false,
       "auth_type": "basic",
       "grant_type": "authorization_code"
