@@ -1,0 +1,13 @@
+{
+  "id": "64c34dd5-07f4-44bd-bb33-951e91586132",
+  "name": "rod",
+  "type": "front-end",
+  "slug": "2217b9bb-e585-409d-b9ee-dd64fdb890bf",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "menuhome",
+  "tooljetVersion": "3.21.56-beta-ee"
+}
