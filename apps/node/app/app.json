@@ -1,0 +1,13 @@
+{
+  "id": "40563ae1-0d61-4329-8dfb-549ba2a2ca1f",
+  "name": "node",
+  "type": "front-end",
+  "slug": "945a1367-d1e8-42ec-a4f3-f81e5da54dd2",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "sun",
+  "tooljetVersion": "3.21.56-beta-ee"
+}
