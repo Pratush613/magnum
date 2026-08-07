@@ -1,0 +1,11 @@
+{
+  "id": "eebd925f-7e59-45f2-970b-0ae654bc3dcd",
+  "kind": "airtable",
+  "name": "huver",
+  "options": {
+    "development": {},
+    "production": {},
+    "staging": {}
+  },
+  "type": "default"
+}
