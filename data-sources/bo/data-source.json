@@ -1,0 +1,11 @@
+{
+  "id": "f51e86ca-5fa3-4434-b50b-ec119ed7f9bb",
+  "kind": "airtable",
+  "name": "bo",
+  "options": {
+    "development": {},
+    "production": {},
+    "staging": {}
+  },
+  "type": "default"
+}

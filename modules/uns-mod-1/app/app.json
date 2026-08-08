@@ -1,0 +1,13 @@
+{
+  "id": "7b4978a7-e946-4b49-a4aa-5fde6ecb2009",
+  "name": "uns-mod-1",
+  "type": "module",
+  "slug": "ceac9964-7a63-4404-8b8e-41cbeb9b8ee3",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "sun",
+  "tooljetVersion": "3.21.56-beta-ee"
+}

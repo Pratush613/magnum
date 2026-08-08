@@ -1,0 +1,13 @@
+{
+  "id": "88c944c9-a01b-4e96-ab3b-ea469d21bf42",
+  "name": "harry",
+  "type": "front-end",
+  "slug": "623c6fb8-e7ba-4088-84da-0d201a3de3da",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "floppydisk",
+  "tooljetVersion": "3.21.56-beta-ee"
+}
