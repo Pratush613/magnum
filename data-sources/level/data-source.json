@@ -1,0 +1,116 @@
+{
+  "id": "0c83d43d-ccdc-4182-bab3-4e952ab49879",
+  "kind": "openapi",
+  "name": "level",
+  "options": {
+    "development": {
+      "access_token_custom_headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "access_token_url": "",
+      "add_token_to": "header",
+      "auth_url": "",
+      "client_auth": "header",
+      "client_id": "",
+      "custom_auth_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "custom_query_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "definition": "",
+      "format": "json",
+      "grant_type": "authorization_code",
+      "header_prefix": "Bearer ",
+      "headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "username": ""
+    },
+    "production": {
+      "access_token_custom_headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "access_token_url": "",
+      "add_token_to": "header",
+      "auth_url": "",
+      "client_auth": "header",
+      "client_id": "",
+      "custom_auth_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "custom_query_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "definition": "",
+      "format": "json",
+      "grant_type": "authorization_code",
+      "header_prefix": "Bearer ",
+      "headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "username": ""
+    },
+    "staging": {
+      "access_token_custom_headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "access_token_url": "",
+      "add_token_to": "header",
+      "auth_url": "",
+      "client_auth": "header",
+      "client_id": "",
+      "custom_auth_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "custom_query_params": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "definition": "",
+      "format": "json",
+      "grant_type": "authorization_code",
+      "header_prefix": "Bearer ",
+      "headers": [
+        [
+          "",
+          ""
+        ]
+      ],
+      "username": ""
+    }
+  },
+  "type": "default"
+}
