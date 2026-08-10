@@ -5,7 +5,7 @@
   "options": {
     "development": {
       "database": "",
-      "host": "vafd",
+      "host": "vafdhome",
       "port": "5984",
       "protocol": {
         "encrypted": false
