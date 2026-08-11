@@ -1,0 +1,13 @@
+{
+  "id": "8fb3070d-e7cc-42d8-9853-5bd17e3db9f0",
+  "name": "Parle",
+  "type": "front-end",
+  "slug": "b809e26d-3bc6-499e-9b0a-ee9ae40d95e3",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "draghandle",
+  "tooljetVersion": "3.21.59-beta-ee"
+}
