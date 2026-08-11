@@ -1,0 +1,13 @@
+{
+  "id": "2e4b90fc-f890-4d20-bc72-add786efc276",
+  "name": "Ram",
+  "type": "front-end",
+  "slug": "54c4bdc4-c750-4d0d-97ef-6e9ae761d1d9",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "home",
+  "tooljetVersion": "3.21.59-beta-ee"
+}
