@@ -1,0 +1,13 @@
+{
+  "id": "7b44cd3e-a22a-434d-9b9b-8358ddb06c0c",
+  "name": "luv",
+  "type": "front-end",
+  "slug": "a060c8ad-2dbc-47c5-a002-b26dabf02d8e",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "home",
+  "tooljetVersion": "3.21.59-beta-ee"
+}
