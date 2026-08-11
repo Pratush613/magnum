@@ -1,0 +1,13 @@
+{
+  "id": "6c454c96-dcba-439d-94f3-594987beb366",
+  "name": "Rush",
+  "type": "front-end",
+  "slug": "911e12d4-7366-4cda-a218-2e589384187d",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "table",
+  "tooljetVersion": "3.21.59-beta-ee"
+}
