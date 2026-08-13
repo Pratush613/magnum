@@ -1,0 +1,13 @@
+{
+  "id": "7622fe64-51c2-4cb8-ac77-95a44bd9369e",
+  "name": "chang",
+  "type": "front-end",
+  "slug": "822f0329-95c0-4176-b57d-41f05e23d0ac",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "menuhome",
+  "tooljetVersion": "3.21.59-beta-ee"
+}
