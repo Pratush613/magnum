@@ -1,0 +1,13 @@
+{
+  "id": "921ccd66-21a0-4730-bb36-173c68ebac9d",
+  "name": "Madrid",
+  "type": "front-end",
+  "slug": "a9a7c586-1645-442c-899b-42b75e6521e7",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "globe",
+  "tooljetVersion": "3.21.59-beta-ee"
+}
