@@ -1,0 +1,26 @@
+{
+  "id": "1903b964-a4a2-4e5b-9a18-db1b8559fce5",
+  "kind": "rethinkdb",
+  "name": "ron",
+  "options": {
+    "development": {
+      "database": "",
+      "host": "",
+      "port": "28015",
+      "username": ""
+    },
+    "production": {
+      "database": "",
+      "host": "",
+      "port": "28015",
+      "username": ""
+    },
+    "staging": {
+      "database": "",
+      "host": "",
+      "port": "28015",
+      "username": ""
+    }
+  },
+  "type": "default"
+}

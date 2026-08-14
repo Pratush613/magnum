@@ -1,0 +1,23 @@
+{
+  "id": "9840d33c-2fed-469c-9b21-0d8fefb1353a",
+  "kind": "amazonses",
+  "name": "rest",
+  "options": {
+    "development": {
+      "access_key": "",
+      "instance_metadata_credentials": "iam_access_keys",
+      "region": ""
+    },
+    "production": {
+      "access_key": "",
+      "instance_metadata_credentials": "iam_access_keys",
+      "region": ""
+    },
+    "staging": {
+      "access_key": "",
+      "instance_metadata_credentials": "iam_access_keys",
+      "region": ""
+    }
+  },
+  "type": "default"
+}
