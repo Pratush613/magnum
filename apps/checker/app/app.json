@@ -1,0 +1,13 @@
+{
+  "id": "259b7047-ae74-4445-aae7-078566e489ad",
+  "name": "checker",
+  "type": "front-end",
+  "slug": "6b434a69-a4e9-4a93-b015-41cbd4588f0c",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "table",
+  "tooljetVersion": "3.21.59-beta-ee"
+}

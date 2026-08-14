@@ -1,0 +1,13 @@
+{
+  "id": "8cfae4b3-365a-4427-9075-2b402e2a0044",
+  "name": "Nic",
+  "type": "module",
+  "slug": "e74b044a-5a03-4cf2-8cfe-effe23d717b0",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "table",
+  "tooljetVersion": "3.21.59-beta-ee"
+}
