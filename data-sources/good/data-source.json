@@ -1,0 +1,47 @@
+{
+  "id": "4f74b30f-d82b-4d61-9d80-2e3410e87b70",
+  "kind": "mssql",
+  "name": "good",
+  "options": {
+    "development": {
+      "allow_dynamic_connection_parameters": false,
+      "auth_type": "sql",
+      "azure": false,
+      "connection_type": "manual",
+      "host": "localhost",
+      "port": 1433,
+      "ssh_auth_type": "private_key",
+      "ssh_enabled": "disabled",
+      "ssh_port": 22,
+      "ssl_certificate": "none",
+      "ssl_enabled": false
+    },
+    "production": {
+      "allow_dynamic_connection_parameters": false,
+      "auth_type": "sql",
+      "azure": false,
+      "connection_type": "manual",
+      "host": "localhost",
+      "port": 1433,
+      "ssh_auth_type": "private_key",
+      "ssh_enabled": "disabled",
+      "ssh_port": 22,
+      "ssl_certificate": "none",
+      "ssl_enabled": false
+    },
+    "staging": {
+      "allow_dynamic_connection_parameters": false,
+      "auth_type": "sql",
+      "azure": false,
+      "connection_type": "manual",
+      "host": "localhost",
+      "port": 1433,
+      "ssh_auth_type": "private_key",
+      "ssh_enabled": "disabled",
+      "ssh_port": 22,
+      "ssl_certificate": "none",
+      "ssl_enabled": false
+    }
+  },
+  "type": "default"
+}
