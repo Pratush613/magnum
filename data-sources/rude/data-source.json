@@ -1,0 +1,26 @@
+{
+  "id": "a854e462-11bf-45d2-865b-80800950b4f8",
+  "kind": "athena",
+  "name": "rude",
+  "options": {
+    "development": {
+      "access_key": "",
+      "database": "",
+      "output_location": "",
+      "region": ""
+    },
+    "production": {
+      "access_key": "",
+      "database": "",
+      "output_location": "",
+      "region": ""
+    },
+    "staging": {
+      "access_key": "",
+      "database": "",
+      "output_location": "",
+      "region": ""
+    }
+  },
+  "type": "default"
+}
