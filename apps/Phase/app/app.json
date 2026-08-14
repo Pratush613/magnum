@@ -1,0 +1,13 @@
+{
+  "id": "73ee9c8a-33f9-4710-8391-36a9603dba3e",
+  "name": "Phase",
+  "type": "front-end",
+  "slug": "d740cb7e-f167-41ec-a360-4865ddd47dd0",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.59-beta-ee"
+}
