@@ -1,0 +1,14 @@
+{
+  "id": "dd586a4a-c189-4d89-b93e-2dab81cb2f7d",
+  "name": "athena1",
+  "options": {
+    "mode": "sql",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "query": "Hello baby boy Pss"
+  },
+  "dataSourceId": "a854e462-11bf-45d2-865b-80800950b4f8",
+  "appVersionId": "3f7631b0-8d28-474e-81e3-5f4266869d45",
+  "kind": "athena",
+  "dataSourceType": "default"
+}
