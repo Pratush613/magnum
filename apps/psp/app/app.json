@@ -1,0 +1,13 @@
+{
+  "id": "7741410f-3e32-400c-b722-413bc615b971",
+  "name": "psp",
+  "type": "front-end",
+  "slug": "93669f88-730d-4488-a94b-591f53c5f830",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "draghandle",
+  "tooljetVersion": "3.21.59-beta-ee"
+}
