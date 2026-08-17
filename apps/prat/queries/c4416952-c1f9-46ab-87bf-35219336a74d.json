@@ -1,0 +1,13 @@
+{
+  "id": "c4416952-c1f9-46ab-87bf-35219336a74d",
+  "name": "graphql1",
+  "options": {
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "query": "pdas"
+  },
+  "dataSourceId": "ca80da7e-eed7-4c19-b4ea-a6423fdedba1",
+  "appVersionId": "edce5c17-59ef-4c9b-b87b-fe4238f6533f",
+  "kind": "graphql",
+  "dataSourceType": "default"
+}

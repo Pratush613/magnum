@@ -1,0 +1,13 @@
+{
+  "id": "60794e5e-c3c7-4dca-a707-7bdc29cb5951",
+  "name": "prat",
+  "type": "front-end",
+  "slug": "e18270bf-ba98-40b9-9539-173d39295103",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "sun",
+  "tooljetVersion": "3.21.59-beta-ee"
+}
