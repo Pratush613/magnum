@@ -1,0 +1,23 @@
+{
+  "id": "481f4e55-4839-4f9e-8ea1-57673d06b814",
+  "kind": "snowflake",
+  "name": "ps-ds-1",
+  "options": {
+    "development": {
+      "allow_dynamic_connection_parameters": false,
+      "auth_type": "basic",
+      "grant_type": "authorization_code"
+    },
+    "production": {
+      "allow_dynamic_connection_parameters": false,
+      "auth_type": "basic",
+      "grant_type": "authorization_code"
+    },
+    "staging": {
+      "allow_dynamic_connection_parameters": false,
+      "auth_type": "basic",
+      "grant_type": "authorization_code"
+    }
+  },
+  "type": "default"
+}
