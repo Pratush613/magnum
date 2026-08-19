@@ -1,0 +1,13 @@
+{
+  "id": "d158bfef-f321-448e-9ffb-41ad56b7d457",
+  "name": "ps/a",
+  "type": "front-end",
+  "slug": "d31bd50d-0508-444e-8a78-00b6e89b3720",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "floppydisk",
+  "tooljetVersion": "3.21.61-beta-ee"
+}
