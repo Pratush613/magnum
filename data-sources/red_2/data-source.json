@@ -5,7 +5,7 @@
   "options": {
     "development": {
       "allow_dynamic_connection_parameters": true,
-      "bucket_name": "",
+      "bucket_name": "cdsavsa",
       "endpoint_enabled": false,
       "instance_metadata_credentials": "iam_access_keys"
     },
