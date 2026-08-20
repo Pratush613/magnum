@@ -1,14 +1,14 @@
 {
   "id": "8a69bb5f-f09e-4759-aa9c-ebf85d3c0de4",
   "kind": "snowflake",
-  "name": "snowflakehy",
+  "name": "snowflake",
   "options": {
     "development": {
-      "account": "jhbjhbjhbhbhb",
+      "account": "account",
       "allow_dynamic_connection_parameters": false,
       "auth_type": "basic",
       "grant_type": "authorization_code",
-      "schema": "hhhjb"
+      "schema": "schema"
     },
     "production": {
       "allow_dynamic_connection_parameters": false,
