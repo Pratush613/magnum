@@ -1,7 +1,7 @@
 {
   "id": "d1c5367b-edd8-4ab2-a1af-67aed0bc8cd8",
   "kind": "s3",
-  "name": "red",
+  "name": "red_one",
   "options": {
     "development": {
       "allow_dynamic_connection_parameters": true,
