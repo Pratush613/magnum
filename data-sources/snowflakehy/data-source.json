@@ -4,9 +4,11 @@
   "name": "snowflakehy",
   "options": {
     "development": {
+      "account": "jhbjhbjhbhbhb",
       "allow_dynamic_connection_parameters": false,
       "auth_type": "basic",
-      "grant_type": "authorization_code"
+      "grant_type": "authorization_code",
+      "schema": "hhhjb"
     },
     "production": {
       "allow_dynamic_connection_parameters": false,
