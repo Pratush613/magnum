@@ -1,7 +1,7 @@
 {
   "id": "8a69bb5f-f09e-4759-aa9c-ebf85d3c0de4",
   "kind": "snowflake",
-  "name": "snowflake",
+  "name": "snowflakehy",
   "options": {
     "development": {
       "allow_dynamic_connection_parameters": false,
