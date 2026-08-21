@@ -1,11 +1,11 @@
 {
   "id": "22f363c6-1dbb-4ded-b167-ccfe3b293d33",
   "kind": "couchdb",
-  "name": "coloumn",
+  "name": "coloumn1",
   "options": {
     "development": {
       "database": "",
-      "host": "dsna",
+      "host": "dsnaj",
       "port": "5984",
       "protocol": {
         "encrypted": false
