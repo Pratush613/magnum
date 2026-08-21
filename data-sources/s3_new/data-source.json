@@ -1,0 +1,26 @@
+{
+  "id": "8704cc56-2f80-4358-bfb8-af0e5f50875d",
+  "kind": "s3",
+  "name": "s3_new",
+  "options": {
+    "development": {
+      "allow_dynamic_connection_parameters": true,
+      "bucket_name": "",
+      "endpoint_enabled": false,
+      "instance_metadata_credentials": "iam_access_keys"
+    },
+    "production": {
+      "allow_dynamic_connection_parameters": true,
+      "bucket_name": "",
+      "endpoint_enabled": false,
+      "instance_metadata_credentials": "iam_access_keys"
+    },
+    "staging": {
+      "allow_dynamic_connection_parameters": true,
+      "bucket_name": "",
+      "endpoint_enabled": false,
+      "instance_metadata_credentials": "iam_access_keys"
+    }
+  },
+  "type": "default"
+}
