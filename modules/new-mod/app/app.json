@@ -1,0 +1,13 @@
+{
+  "id": "357cd4a6-aaf6-4a6d-a89a-c085590c5b5e",
+  "name": "new-mod",
+  "type": "module",
+  "slug": "b3613924-6ded-4b1b-be27-4170c12b1e15",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "apps",
+  "tooljetVersion": "3.21.61-beta-ee"
+}
