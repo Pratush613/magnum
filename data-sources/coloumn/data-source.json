@@ -1,0 +1,35 @@
+{
+  "id": "22f363c6-1dbb-4ded-b167-ccfe3b293d33",
+  "kind": "couchdb",
+  "name": "coloumn",
+  "options": {
+    "development": {
+      "database": "",
+      "host": "dsna",
+      "port": "5984",
+      "protocol": {
+        "encrypted": false
+      },
+      "username": ""
+    },
+    "production": {
+      "database": "",
+      "host": "",
+      "port": "5984",
+      "protocol": {
+        "encrypted": false
+      },
+      "username": ""
+    },
+    "staging": {
+      "database": "",
+      "host": "",
+      "port": "5984",
+      "protocol": {
+        "encrypted": false
+      },
+      "username": ""
+    }
+  },
+  "type": "default"
+}

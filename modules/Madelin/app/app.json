@@ -1,0 +1,13 @@
+{
+  "id": "caefd531-8eb3-40ff-b605-905e578e8c73",
+  "name": "Madelin",
+  "type": "module",
+  "slug": "00f369ef-0b76-4a5a-81e9-50b04031d520",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "home",
+  "tooljetVersion": "3.21.61-beta-ee"
+}
