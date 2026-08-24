@@ -10,7 +10,14 @@
     "backgroundFxQuery": "",
     "appMode": "light"
   },
-  "pageSettings": null,
+  "pageSettings": {
+    "properties": {
+      "disableMenu": {
+        "value": "{{false}}",
+        "fxActive": false
+      }
+    }
+  },
   "showViewerNavigation": true,
   "homePageId": "e5f1dcec-4252-4e3a-a90a-40ea833b5cea",
   "versionType": "version",
@@ -21,7 +28,6 @@
   "publishedAt": null,
   "releasedAt": null,
   "isStub": false,
-  "gitTreeSha": null,
   "sourceTag": null,
-  "isSynced": false
+  "isSynced": true
 }
