@@ -1,0 +1,15 @@
+{
+  "id": "4afa5ba4-37b8-456b-8c17-808c52fb3d66",
+  "name": "s31",
+  "options": {
+    "maxKeys": 1000,
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "operation": "create_bucket",
+    "bucket": "vfad"
+  },
+  "dataSourceId": "be2a1c20-79f0-48fd-8ccd-67c0e295d812",
+  "appVersionId": "be9b10fe-3ce1-4393-9f70-b56b00d80c35",
+  "kind": "s3",
+  "dataSourceType": "default"
+}
