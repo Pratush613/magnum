@@ -1,0 +1,10 @@
+{
+  "id": "e641581d-b0cb-4a63-88df-c2a9ab5bd42b",
+  "kind": "airtable",
+  "options": {
+    "development": {},
+    "production": {},
+    "staging": {}
+  },
+  "type": "default"
+}

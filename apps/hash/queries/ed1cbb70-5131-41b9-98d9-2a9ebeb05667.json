@@ -1,0 +1,13 @@
+{
+  "id": "ed1cbb70-5131-41b9-98d9-2a9ebeb05667",
+  "name": "airtable1",
+  "options": {
+    "cell_format": "json",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false
+  },
+  "dataSourceId": "e641581d-b0cb-4a63-88df-c2a9ab5bd42b",
+  "appVersionId": "a5ecb612-e7a2-428a-937b-4a52646e6174",
+  "kind": "airtable",
+  "dataSourceType": "default"
+}
