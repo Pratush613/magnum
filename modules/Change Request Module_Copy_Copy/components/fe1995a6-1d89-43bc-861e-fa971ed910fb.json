@@ -1,0 +1,62 @@
+{
+  "id": "fe1995a6-1d89-43bc-861e-fa971ed910fb",
+  "name": "PreviewPlaceholder",
+  "type": "Text",
+  "pageId": "a50c626b-107f-4a70-839e-034c29c9a371",
+  "parent": "e679ccde-24ca-49cc-86d0-1b2cdd72f72f-preview",
+  "properties": {
+    "text": {
+      "value": "Select a row in the Submissions tab to preview."
+    },
+    "visibility": {
+      "value": "{{!variables.cr_preview_data}}"
+    },
+    "tooltipFormat": {
+      "value": "plainText"
+    },
+    "collapseWhenHidden": {
+      "value": "{{false}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "#6b7486"
+    },
+    "textAlign": {
+      "value": "center"
+    },
+    "textSize": {
+      "value": 14
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {},
+  "validation": {},
+  "layouts": [
+    {
+      "id": "28ef80e2-ce99-4816-b8da-e65e3c3ae25f",
+      "type": "desktop",
+      "top": 40,
+      "left": 0,
+      "width": 43,
+      "height": 40,
+      "widthPx": null,
+      "fillWidth": null,
+      "componentId": "fe1995a6-1d89-43bc-861e-fa971ed910fb",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "d3e79af8-0897-4163-8932-2d214c08ce04",
+      "type": "mobile",
+      "top": 40,
+      "left": 0,
+      "width": 43,
+      "height": 40,
+      "widthPx": null,
+      "fillWidth": null,
+      "componentId": "fe1995a6-1d89-43bc-861e-fa971ed910fb",
+      "dimensionUnit": "count"
+    }
+  ]
+}

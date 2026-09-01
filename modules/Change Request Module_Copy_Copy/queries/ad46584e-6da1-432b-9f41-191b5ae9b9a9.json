@@ -1,0 +1,12 @@
+{
+  "id": "ad46584e-6da1-432b-9f41-191b5ae9b9a9",
+  "name": "submitApprove",
+  "options": {
+    "code": "return await queries.processApproverDecision.run({ decision: 'APPROVE' });",
+    "confirmationMessage": ""
+  },
+  "dataSourceId": "bf6662d2-e4a2-426b-8fc0-e81b1b34b7d7",
+  "appVersionId": "77ecd672-c7d9-427e-8756-1676e2c77e95",
+  "kind": "runjs",
+  "dataSourceType": "static"
+}
