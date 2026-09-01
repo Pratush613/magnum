@@ -1,0 +1,15 @@
+{
+  "id": "1ecd6bfe-95a3-413c-b475-434a5846c5ff",
+  "name": "onClick",
+  "index": 0,
+  "event": {
+    "key": "activeTab",
+    "value": "home",
+    "eventId": "onClick",
+    "actionId": "set-custom-variable",
+    "parameters": {}
+  },
+  "sourceId": "c41fd6a8-415d-46e0-a00f-ce9b34c50963",
+  "target": "component",
+  "appVersionId": "16fa65a1-f884-4cb7-b9ba-e949d8e32bf2"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "5346b83f-43c0-4566-8b93-a5d532bd585c",
+  "name": "cocGetModifyImpact",
+  "options": {
+    "url": "{{variables.api_endpoint_base}}/v1/coc/configs/{{parameters.id}}/modify-impact",
+    "body": [
+      [
+        "",
+        ""
+      ]
+    ],
+    "method": "get",
+    "cookies": [
+      [
+        "",
+        ""
+      ]
+    ],
+    "headers": [
+      [
+        "X-CoC-Request-ID",
+        "{{(typeof crypto!=='undefined'&&crypto.randomUUID)?crypto.randomUUID():'req-'+Date.now()}}"
+      ],
+      [
+        "X-CoC-Actor-ID",
+        "{{globals.currentUser.email || 'viewer@porter.in'}}"
+      ],
+      [
+        "X-CoC-Actor-Role",
+        "VIEWER"
+      ],
+      [
+        "X-CoC-Domain-ID",
+        "{{variables.cr_domain_id || 'partner-platform'}}"
+      ],
+      [
+        "porter-flash-id",
+        "pcoc"
+      ],
+      [
+        "porter-flash-partner-plat-web",
+        "pcoc"
+      ],
+      [
+        "porter-country",
+        "india"
+      ],
+      [
+        "porter-timezone",
+        "Asia/Kolkata"
+      ]
+    ],
+    "urlParams": [
+      [
+        "",
+        ""
+      ]
+    ],
+    "parameters": [
+      {
+        "name": "id",
+        "defaultValue": ""
+      }
+    ],
+    "confirmationMessage": "",
+    "showSuccessNotification": false
+  },
+  "dataSourceId": "535163e4-4299-403a-bab9-674cd0980515",
+  "appVersionId": "77ecd672-c7d9-427e-8756-1676e2c77e95",
+  "kind": "restapi",
+  "dataSourceType": "static"
+}
