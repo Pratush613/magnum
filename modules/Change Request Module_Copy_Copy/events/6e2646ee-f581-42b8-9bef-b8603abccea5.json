@@ -1,0 +1,14 @@
+{
+  "id": "6e2646ee-f581-42b8-9bef-b8603abccea5",
+  "name": "onDataQuerySuccess",
+  "index": 1,
+  "event": {
+    "eventId": "onDataQuerySuccess",
+    "queryId": "bb06aed8-fc9e-48ba-8b8b-08824a34137a",
+    "actionId": "run-query",
+    "parameters": {}
+  },
+  "sourceId": "d558c900-50e5-49d9-8d57-721f940be07c",
+  "target": "data_query",
+  "appVersionId": "77ecd672-c7d9-427e-8756-1676e2c77e95"
+}

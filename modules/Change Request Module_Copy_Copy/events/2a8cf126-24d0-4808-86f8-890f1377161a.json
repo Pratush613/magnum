@@ -1,0 +1,15 @@
+{
+  "id": "2a8cf126-24d0-4808-86f8-890f1377161a",
+  "name": "onSelect",
+  "index": 0,
+  "event": {
+    "eventId": "onSelect",
+    "queryId": "bb06aed8-fc9e-48ba-8b8b-08824a34137a",
+    "actionId": "run-query",
+    "queryName": "svc_fetchSubmissions",
+    "parameters": {}
+  },
+  "sourceId": "2cd17026-170f-4fee-b0d7-70ba8d54c9a6",
+  "target": "component",
+  "appVersionId": "77ecd672-c7d9-427e-8756-1676e2c77e95"
+}
