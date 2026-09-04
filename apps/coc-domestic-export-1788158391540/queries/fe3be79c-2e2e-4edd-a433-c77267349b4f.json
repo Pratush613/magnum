@@ -1,0 +1,13 @@
+{
+  "id": "fe3be79c-2e2e-4edd-a433-c77267349b4f",
+  "name": "renderActivity",
+  "options": {
+    "code": "return null;",
+    "runOnPageLoad": false,
+    "confirmationMessage": ""
+  },
+  "dataSourceId": "0f5000f4-1e97-4e12-a46e-5b92290fda66",
+  "appVersionId": "16fa65a1-f884-4cb7-b9ba-e949d8e32bf2",
+  "kind": "runjs",
+  "dataSourceType": "static"
+}

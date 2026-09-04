@@ -1,0 +1,17 @@
+{
+  "id": "43f035bd-4fe6-4029-ba82-f6b91fa3a0ec",
+  "name": "onClick",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "",
+    "queryId": "63360c49-36b9-475d-8254-9e48ff24c522",
+    "actionId": "run-query",
+    "alertType": "info",
+    "queryName": "scaffold_app",
+    "parameters": {}
+  },
+  "sourceId": "e27a15ea-f053-4c6a-b3d6-e44e73e3468e",
+  "target": "component",
+  "appVersionId": "16fa65a1-f884-4cb7-b9ba-e949d8e32bf2"
+}
