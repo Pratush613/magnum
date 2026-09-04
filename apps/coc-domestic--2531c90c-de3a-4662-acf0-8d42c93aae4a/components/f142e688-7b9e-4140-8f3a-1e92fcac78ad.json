@@ -1,0 +1,65 @@
+{
+  "id": "f142e688-7b9e-4140-8f3a-1e92fcac78ad",
+  "name": "ModalDefaultScope",
+  "type": "DropDown",
+  "pageId": "d9a6c7b0-0e5a-4329-a2b2-a3f761cf8b3c",
+  "parent": "96481879-8b32-4ba9-9bce-8d79f4e8d3c8",
+  "properties": {
+    "label": {
+      "value": "Default scope"
+    },
+    "advanced": {
+      "value": "{{false}}"
+    },
+    "schema": {
+      "value": "{{[{label:'Geo Region',value:'geoRegionId'},{label:'Vehicle Category',value:'vehicleId'}]}}"
+    },
+    "values": {
+      "value": "{{['geoRegionId','vehicleId']}}"
+    },
+    "display_values": {
+      "value": "{{['Geo Region','Vehicle Category']}}"
+    },
+    "placeholder": {
+      "value": "Select scope dimensions"
+    }
+  },
+  "general": {},
+  "styles": {},
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{false}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "80634554-f2c1-47dc-aac8-25a737144074",
+      "type": "desktop",
+      "top": 170,
+      "left": 2,
+      "width": 28,
+      "height": 50,
+      "widthPx": null,
+      "fillWidth": null,
+      "componentId": "f142e688-7b9e-4140-8f3a-1e92fcac78ad",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "a1a93c38-7942-4d67-86ba-2a6854c3f62b",
+      "type": "mobile",
+      "top": 170,
+      "left": 0,
+      "width": 43,
+      "height": 50,
+      "widthPx": null,
+      "fillWidth": null,
+      "componentId": "f142e688-7b9e-4140-8f3a-1e92fcac78ad",
+      "dimensionUnit": "count"
+    }
+  ]
+}

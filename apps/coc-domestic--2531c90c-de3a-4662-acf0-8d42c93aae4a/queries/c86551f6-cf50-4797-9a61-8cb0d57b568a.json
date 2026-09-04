@@ -1,0 +1,34 @@
+{
+  "id": "c86551f6-cf50-4797-9a61-8cb0d57b568a",
+  "name": "fetchApps",
+  "options": {
+    "limit": "50",
+    "offset": "0",
+    "tableId": "2c5fb6e9-13d4-46f4-a3ae-9040304ca853",
+    "operation": "list_rows",
+    "orderFilters": {
+      "0": {
+        "order": "desc",
+        "column": "id"
+      }
+    },
+    "whereFilters": {
+      "0": {
+        "value": "domestic",
+        "column": "type",
+        "operator": "="
+      },
+      "1": {
+        "value": "NULL",
+        "column": "tj_app_id",
+        "operator": "IS NOT"
+      }
+    },
+    "runOnPageLoad": false,
+    "confirmationMessage": ""
+  },
+  "dataSourceId": "47c4eff4-9aeb-4b9d-af54-acd29baf8de8",
+  "appVersionId": "2531c90c-de3a-4662-acf0-8d42c93aae4a",
+  "kind": "tooljetdb",
+  "dataSourceType": "static"
+}

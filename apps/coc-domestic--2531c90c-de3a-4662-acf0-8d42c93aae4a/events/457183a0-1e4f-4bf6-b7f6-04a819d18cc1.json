@@ -1,0 +1,17 @@
+{
+  "id": "457183a0-1e4f-4bf6-b7f6-04a819d18cc1",
+  "name": "onDataQueryFailure",
+  "index": 1,
+  "event": {
+    "eventId": "onDataQueryFailure",
+    "message": "",
+    "queryId": "5d8bc909-d061-451a-9620-4110f5aa56be",
+    "actionId": "run-query",
+    "alertType": "info",
+    "queryName": "closeCreateModal",
+    "parameters": {}
+  },
+  "sourceId": "74388e57-bba1-476a-8fb2-98e9c72c3c83",
+  "target": "data_query",
+  "appVersionId": "2531c90c-de3a-4662-acf0-8d42c93aae4a"
+}

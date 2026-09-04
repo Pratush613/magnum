@@ -1,0 +1,121 @@
+{
+  "id": "c808f0a3-da69-4560-9b53-0c61ce432d27",
+  "name": "cocUpdateConfigStatus",
+  "options": {
+    "url": "{{parameters.apiHost || parameters.api_base_url}}/v1/coc/configs/{{parameters.configVersionId}}",
+    "body": [
+      [
+        "",
+        ""
+      ]
+    ],
+    "method": "put",
+    "cookies": [
+      [
+        "",
+        ""
+      ]
+    ],
+    "headers": [
+      [
+        "Content-Type",
+        "application/json"
+      ],
+      [
+        "X-CoC-Request-ID",
+        "{{parameters.requestId}}"
+      ],
+      [
+        "X-CoC-Actor-ID",
+        "{{parameters.actorId}}"
+      ],
+      [
+        "X-CoC-Actor-Role",
+        "{{parameters.actorRole}}"
+      ],
+      [
+        "X-CoC-Domain-ID",
+        "{{parameters.domainId}}"
+      ],
+      [
+        "porter-flash-id",
+        "pcoc"
+      ],
+      [
+        "porter-flash-partner-plat-web",
+        "pcoc"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "porter-country",
+        "india"
+      ]
+    ],
+    "rawBody": null,
+    "jsonBody": null,
+    "urlParams": [
+      [
+        "",
+        ""
+      ]
+    ],
+    "bodyToggle": false,
+    "parameters": [
+      {
+        "name": "configVersionId",
+        "defaultValue": ""
+      },
+      {
+        "name": "requestId",
+        "defaultValue": ""
+      },
+      {
+        "name": "actorId",
+        "defaultValue": ""
+      },
+      {
+        "name": "domainId",
+        "defaultValue": ""
+      },
+      {
+        "name": "status",
+        "defaultValue": "APPROVED"
+      },
+      {
+        "name": "comment",
+        "defaultValue": ""
+      },
+      {
+        "name": "actorRole",
+        "defaultValue": "CHECKER"
+      },
+      {
+        "name": "apiHost",
+        "defaultValue": ""
+      },
+      {
+        "name": "api_base_url",
+        "defaultValue": ""
+      },
+      {
+        "name": "effective_to",
+        "defaultValue": ""
+      }
+    ],
+    "arrayValuesChanged": true,
+    "retryNetworkErrors": null,
+    "confirmationMessage": "",
+    "enableTransformation": false,
+    "transformationLanguage": "javascript",
+    "showSuccessNotification": false,
+    "body_toggle": true,
+    "raw_body": "{\"request_type\": \"{{parameters.request_type || (parameters.status === 'APPROVED' ? 'approve' : parameters.status === 'RETIRED' ? 'expire' : parameters.status === 'DELETED' ? 'reject' : '')}}\",\"auto_applied\": {{parameters.auto_applied === true}},\"comment\": \"{{parameters.comment || ''}}\",\"effective_to\": {{parameters.effective_to || 'null'}}}"
+  },
+  "dataSourceId": "f5f847e8-0bcc-49ab-8189-f300258d950d",
+  "appVersionId": "0af9ecb1-ad4c-4fe4-91ca-19b008ec0fa2",
+  "kind": "restapi",
+  "dataSourceType": "static"
+}

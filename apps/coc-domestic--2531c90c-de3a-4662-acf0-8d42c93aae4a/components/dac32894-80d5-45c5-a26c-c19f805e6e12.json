@@ -1,0 +1,62 @@
+{
+  "id": "dac32894-80d5-45c5-a26c-c19f805e6e12",
+  "name": "ModalTitle",
+  "type": "Text",
+  "pageId": "d9a6c7b0-0e5a-4329-a2b2-a3f761cf8b3c",
+  "parent": "96481879-8b32-4ba9-9bce-8d79f4e8d3c8",
+  "properties": {
+    "text": {
+      "value": "Register config utility"
+    },
+    "textFormat": {
+      "value": "plainText"
+    },
+    "tooltipFormat": {
+      "value": "plainText"
+    },
+    "collapseWhenHidden": {
+      "value": "{{false}}"
+    }
+  },
+  "general": {},
+  "styles": {
+    "fontWeight": {
+      "value": "bold"
+    },
+    "textSize": {
+      "value": 16
+    },
+    "textColor": {
+      "value": "#2a3140"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": null,
+  "validation": {},
+  "layouts": [
+    {
+      "id": "84c3be81-3032-4425-afb3-a7bd0403b525",
+      "type": "desktop",
+      "top": 12,
+      "left": 2,
+      "width": 28,
+      "height": 28,
+      "widthPx": null,
+      "fillWidth": null,
+      "componentId": "dac32894-80d5-45c5-a26c-c19f805e6e12",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "a8b47e28-bf22-498b-8662-996170308e06",
+      "type": "mobile",
+      "top": 12,
+      "left": 0,
+      "width": 43,
+      "height": 28,
+      "widthPx": null,
+      "fillWidth": null,
+      "componentId": "dac32894-80d5-45c5-a26c-c19f805e6e12",
+      "dimensionUnit": "count"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ca5fc338-a706-4946-9350-c8fa2a6a5fc1",
+  "name": "getRecentActivity",
+  "options": {
+    "code": "const origin=window.location.origin;\nconst h={'Tj-Workspace-Id':constants.WS};\nconst CR=constants.CHANGE_REQUESTS_TABLE;\ntry{\n  const r=await fetch(origin+'/api/tooljet-db/proxy/'+CR+'?order=created_at.desc&limit=3&select=id,config_type,domain,status,created_at,payload',{credentials:'include',headers:h});\n  const t=await r.text();\n  const j=t?JSON.parse(t):[];\n  const rows=Array.isArray(j)?j:[];\n  const fmt=ts=>{ if(!ts) return ''; const d=new Date(ts); return d.toLocaleString('en-IN',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}); };\n  return rows.map(r=>{\n    const p=r.payload||{};\n    const status=r.status==='SUBMITTED'?'Awaiting approval':r.status==='APPROVED'?'Approved':r.status==='REJECTED'?'Rejected':r.status==='CANCELLED'?'Cancelled':r.status;\n    return { id:r.id, name:(p.rule_name||p.config_name||r.config_type||'Rule')+' \\u00b7 '+(r.domain||''), sub:r.config_type||'', status, time: fmt(r.created_at) };\n  });\n}catch(e){ console.warn('getRecentActivity failed', e.message); return []; }",
+    "runOnPageLoad": true,
+    "confirmationMessage": ""
+  },
+  "dataSourceId": "0f5000f4-1e97-4e12-a46e-5b92290fda66",
+  "appVersionId": "2531c90c-de3a-4662-acf0-8d42c93aae4a",
+  "kind": "runjs",
+  "dataSourceType": "static"
+}
