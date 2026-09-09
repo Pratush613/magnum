@@ -1,7 +1,6 @@
 {
   "id": "fda2094e-c372-4d96-b696-01e62207bcc9",
   "kind": "graphql",
-  "name": "local\\graphql",
   "options": {
     "development": {
       "access_token_custom_headers": [

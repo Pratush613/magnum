@@ -1,7 +1,6 @@
 {
   "id": "22f363c6-1dbb-4ded-b167-ccfe3b293d33",
   "kind": "couchdb",
-  "name": "coloumn1",
   "options": {
     "development": {
       "database": "",

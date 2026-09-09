@@ -1,7 +1,6 @@
 {
   "id": "150307f6-6c32-4bd6-ad18-d2a330c343b4",
   "kind": "mongodb",
-  "name": "new-ds",
   "options": {
     "development": {
       "connection_format": "mongodb",
