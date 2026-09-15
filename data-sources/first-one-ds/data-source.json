@@ -1,0 +1,20 @@
+{
+  "id": "26553f6d-61ac-4f48-a95a-200cfa160a69",
+  "kind": "ibmdb",
+  "options": {
+    "development": {
+      "host": "localhostc",
+      "port": 50000,
+      "username": "cads"
+    },
+    "production": {
+      "host": "localhost",
+      "port": 50000
+    },
+    "staging": {
+      "host": "localhost",
+      "port": 50000
+    }
+  },
+  "type": "default"
+}
