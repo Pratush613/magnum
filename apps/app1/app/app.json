@@ -1,12 +1,12 @@
 {
   "id": "0d6d17c4-a987-482f-9d2e-dc0c40de4d0f",
   "type": "front-end",
-  "slug": "53cfc5b5-19be-41c6-965a-a3c8605be278",
+  "slug": "c2786093-3602-416e-9bf7-2f86f619276d",
   "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
   "icon": "sun",
-  "tooljetVersion": "3.21.69-beta-ee"
+  "tooljetVersion": "3.21.70-beta-ee"
 }

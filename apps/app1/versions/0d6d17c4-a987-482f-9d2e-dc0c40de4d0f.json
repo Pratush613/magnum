@@ -29,5 +29,6 @@
   "releasedAt": null,
   "isStub": false,
   "sourceTag": null,
-  "isSynced": true
+  "isSynced": true,
+  "hasUncommittedChanges": true
 }
