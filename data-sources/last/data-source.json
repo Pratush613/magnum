@@ -1,0 +1,25 @@
+{
+  "id": "3c8133f9-4a32-450c-887e-7f335e5a38c3",
+  "kind": "databricks",
+  "options": {
+    "development": {
+      "auth_type": "oauth2",
+      "authentication_type": "personal_access_token",
+      "grant_type": "authorization_code",
+      "oauth_type": "custom_app"
+    },
+    "production": {
+      "auth_type": "oauth2",
+      "authentication_type": "personal_access_token",
+      "grant_type": "authorization_code",
+      "oauth_type": "custom_app"
+    },
+    "staging": {
+      "auth_type": "oauth2",
+      "authentication_type": "personal_access_token",
+      "grant_type": "authorization_code",
+      "oauth_type": "custom_app"
+    }
+  },
+  "type": "default"
+}
