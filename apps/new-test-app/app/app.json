@@ -1,0 +1,12 @@
+{
+  "id": "7d7f468d-9b3c-41b7-adbc-1bc1641867a4",
+  "type": "front-end",
+  "slug": "7f55be12-0b14-4365-92f2-c154e70495c0",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "shield",
+  "tooljetVersion": "3.21.70-beta-ee"
+}
